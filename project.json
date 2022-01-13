@@ -1,6 +1,6 @@
 {
-  "name": "BlankProcess",
-  "description": "Blank Process",
+  "name": "RpaYKK",
+  "description": "Learn version control on Github",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.6]",
